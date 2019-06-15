@@ -14,10 +14,10 @@ export default class AttendanceList extends Component {
         super(props);
         this.state = {
             attendanceList: [
-                { title: '진료소 파트1', date: '6월 8일'},
-                { title: '진료소 파트2', date: '6월 8일'},
-                { title: '진료소 파트3', date: '6월 8일'},
-                { title: '보건교육 성북지점', date: '6월 8일'}
+                { title: '진료소 파트1', date: '6월 8일' },
+                { title: '진료소 파트2', date: '6월 8일' },
+                { title: '진료소 파트3', date: '6월 8일' },
+                { title: '보건교육 성북지점', date: '6월 8일' }
             ]
         };
     }
